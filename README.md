@@ -1,12 +1,14 @@
 # zettl-fzf
 
-Provides a command wrapper around [zettl](https://github.com/hedonhermdev/zettl) and [fzf](https://github.com/junegunn/fzf).
+Provides a command wrapper around [zettl][] and [fzf][].
 
 ## Installation
 
 ### System Requirements
 
 - The **latest** version of [Fish][], currently 3.3.1.
+- The **latest** version of [zettl][].
+- The **latest** version of [fzf][].
 
 Install with [Fisher][]:
 
@@ -44,3 +46,5 @@ zff
 
 [fish]: https://fishshell.com/
 [fisher]: https://github.com/jorgebucaran/fisher
+[fzf]: https://github.com/junegunn/fzf
+[zettl]:_https://github.com/hedonhermdev/zettl
